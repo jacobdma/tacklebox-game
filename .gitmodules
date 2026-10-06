@@ -1,0 +1,3 @@
+[submodule "external/tacklebox-engine"]
+	path = external/tacklebox-engine
+	url = https://github.com/jacobdma/tacklebox-engine.git
